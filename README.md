@@ -13,3 +13,14 @@ This mod will be compatiable with Everdrive support, so you may wish to play on 
 
 # I don't have Discord. Are there other ways to keep up with the mod?
 Yes, there is! Simply catch the YouTube videos in this [playlist](https://youtube.com/playlist?list=PLJ9UtDRJbsbspRZyCI_V3VNUvyO-XkN2U) or watch for new posts on my [Twitter](https://twitter.com/GDX4X5)
+
+# I want to help. What type of people do you need?
+Here's my list:
+
+- ASM coder
+- Script coder
+- Map maker
+- Spriter (Role closed for now)
+- Music Composer/Transposing
+
+Writing is also a need, however, if you're on the team, you automatically contribue to writing
