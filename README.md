@@ -11,3 +11,5 @@ If you have any questions about the project, or how you can help, just join the 
 # Playing on console (N64)
 This mod will be compatiable with Everdrive support, so you may wish to play on console. If that's the case, all you need is an Everdrive flashcart, and an SD card to put your patched rom on. Simply put the SD card into the flashcart, put it in the N64, and open the rom from there, and the game will run
 
+# I don't have Discord. Are there other ways to keep up with the mod?
+Yes, there is! Simply catch the YouTube videos in this [playlist](https://youtube.com/playlist?list=PLJ9UtDRJbsbspRZyCI_V3VNUvyO-XkN2U) or watch for new posts on my [Twitter](https://twitter.com/GDX4X5)
