@@ -20,7 +20,11 @@ Here's my list:
 - ASM coder
 - Script coder
 - Map maker
+  *Side note: This requires you to know how to create maps, create battle maps, and create loading zones
 - Spriter (Role closed for now)
 - Music Composer/Transposing
 
 Writing is also a need, however, if you're on the team, you automatically contribue to writing
+
+# May I be a beta tester?
+The answer is yes. However, you must join the [Discord server](https://discord.gg/bN4hrXNgRW) in order to be elgible. Slots do remain, so this is your chance to snag one.
