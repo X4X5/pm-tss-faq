@@ -28,3 +28,11 @@ Writing is also a need, however, if you're on the team, you automatically contri
 
 # May I be a beta tester?
 The answer is yes. However, you must join the [Discord server](https://discord.gg/bN4hrXNgRW) in order to be elgible. Slots do remain, so this is your chance to snag one.
+
+# May I suggest mechanic ideas for Beyond the Dream? How can I do so?
+Yes, you are allowed to make suggestions, but please note that they may not be taken all the time. As a team, we have to be consious of the fact that we can't please everyone, and sometimes, some ideas may not best align with what we have planned for the future. Please understand.
+
+You can suggest ideas by joining the Discord server, or by dropping a comment in my DMs on [Twitter](https://twitter.com/GDX4X5). You can also open an issue here to suggest anything you feel you want to add.
+
+# This mod sounds cool, but are there other Paper Mario mods I could check out?
+Of course there is! Just drop by the [Paper Mario modding server](https://discord.gg/JGJ7H5R7eS)
