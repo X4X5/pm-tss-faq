@@ -9,39 +9,39 @@ This repository will have the public releases on it, so you can watch here for w
 If you have any questions about the project, or how you can help, just join the [Discord server!](https://discord.gg/bN4hrXNgRW) 
 
 # Paper Crafters main devs 
-X4X5
-Den
+1. X4X5
+2. Den
 
 [Paper Crafters team]
-Genesis
-Rain
-GustavoF
-HP :zap:  kosarials
-456Jr
-Dennan
-FIRE METEOR THE ANIMATOR
-HuMs
-Paperist 99
-AMBri
+- Genesis
+- Rain
+- GustavoF
+- HP :zap:  kosarials
+- 456Jr
+- Dennan
+- FIRE METEOR THE ANIMATOR
+- HuMs
+- Paperist 99
+- AMBri
 
 [Star Rod tool developer]
-Cloverhax
+-Cloverhax
 
 [Mamar developer]
-alex
+- alex
 
 [midi2bgm developer]
-KernelEquinox
+- KernelEquinox
 
 [Special thanks to]
-Count Homer
-elDexter
-Grobyc
-alex
-MasterKillua
+- Count Homer
+- elDexter
+- Grobyc
+- alex
+- MasterKillua
 
 [Paper Crafters logo art]
-Dylan Kit
+- Dylan Kit
 
 # Playing on console (N64)
 This mod will be compatiable with Everdrive support, so you may wish to play on console. If that's the case, all you need is an Everdrive flashcart, and an SD card to put your patched rom on. Simply put the SD card into the flashcart, put it in the N64, and open the rom from there, and the game will run
