@@ -12,7 +12,7 @@ If you have any questions about the project, or how you can help, just join the 
 This mod will be compatiable with Everdrive support, so you may wish to play on console. If that's the case, all you need is an Everdrive flashcart, and an SD card to put your patched rom on. Simply put the SD card into the flashcart, put it in the N64, and open the rom from there, and the game will run
 
 # I don't have Discord. Are there other ways to keep up with the mod?
-Yes, there is! Simply catch the YouTube videos in this [playlist](https://youtube.com/playlist?list=PLJ9UtDRJbsbspRZyCI_V3VNUvyO-XkN2U) or watch for new posts on my [Twitter](https://twitter.com/GDX4X5)
+Yes, there is! Simply catch the YouTube videos in this [playlist](https://youtube.com/playlist?list=PLJ9UtDRJbsbspRZyCI_V3VNUvyO-XkN2U), [subscribing to the official Paper Crafters YT channel](https://www.youtube.com/channel/UCZFgkKsSFqgJOsSzIisKKfw), or [watch for new posts on the official Twitter](https://twitter.com/GDX4X5)
 
 # I want to help. What type of people do you need?
 Here's my list:
@@ -32,7 +32,7 @@ The answer is yes. However, you must join the [Discord server](https://discord.g
 # May I suggest mechanic ideas for Beyond the Dream? How can I do so?
 Yes, you are allowed to make suggestions, but please note that they may not be taken all the time. As a team, we have to be consious of the fact that we can't please everyone, and sometimes, some ideas may not best align with what we have planned for the future. Please understand.
 
-You can suggest ideas by joining the Discord server, or by dropping a comment in my DMs on [Twitter](https://twitter.com/GDX4X5). You can also open an issue here to suggest anything you feel you want to add.
+You can suggest ideas by joining the Discord server, or by dropping a comment in DMs on Twitter. You can also open an issue here to suggest anything you feel you want to add.
 
 # This mod sounds cool, but are there other Paper Mario mods I could check out?
 Of course there is! Just drop by the [Paper Mario modding server](https://discord.gg/JGJ7H5R7eS)
