@@ -25,7 +25,7 @@ If you have any questions about the project, or how you can help, just join the 
 - AMBri
 
 [Star Rod tool developer]
--Cloverhax
+- Cloverhax
 
 [Mamar developer]
 - alex
