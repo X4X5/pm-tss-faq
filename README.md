@@ -8,7 +8,8 @@ This repository will have the public releases on it, so you can watch here for w
 
 If you have any questions about the project, or how you can help, just join the [Discord server!](https://discord.gg/bN4hrXNgRW) 
 
-# Paper Crafters main devs 
+# Paper Crafters team
+[Main Devs]
 1. X4X5
 2. Den
 
