@@ -13,8 +13,8 @@ If you have any questions about the project, or how you can help, just join the 
 
 # Paper Crafters team
 [Main Devs]
-1. X4X5
-2. Den
+- X4X5
+- Den
 
 [Paper Crafters team]
 - Genesis
