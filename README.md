@@ -51,7 +51,7 @@ If you have any questions about the project, or how you can help, just join the 
 This mod will be compatiable with Everdrive support, so you may wish to play on console. If that's the case, all you need is an Everdrive flashcart, and an SD card to put your patched rom on. Simply put the SD card into the flashcart, put it in the N64, and open the rom from there, and the game will run
 
 # I don't have Discord. Are there other ways to keep up with the mod?
-Yes, there is! Simply catch the YouTube videos in this [playlist](https://youtube.com/playlist?list=PLJ9UtDRJbsbspRZyCI_V3VNUvyO-XkN2U), [subscribing to the official Paper Crafters YT channel](https://www.youtube.com/channel/UCZFgkKsSFqgJOsSzIisKKfw), or [watch for new posts on the official Twitter](https://twitter.com/GDX4X5)
+Yes, there is! Simply catch the YouTube videos in this [playlist](https://youtube.com/playlist?list=PLJ9UtDRJbsbspRZyCI_V3VNUvyO-XkN2U), [subscribing to the official Paper Crafters YT channel](https://www.youtube.com/channel/UCZFgkKsSFqgJOsSzIisKKfw), or [watch for new posts on the official Twitter](https://twitter.com/PMModders)
 
 # I want to help. What type of people do you need?
 Here's my list:
