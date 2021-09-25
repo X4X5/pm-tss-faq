@@ -1,10 +1,10 @@
 ![Logopit_1628895579967](https://user-images.githubusercontent.com/50627538/131228043-8253e63e-00a8-4bb7-8598-fbd468aac30c.png)
 
 
-# Paper Mario: Beyond the Dream by Paper Crafters
+# Paper Mario: TSS by Paper Crafters
 A new Paper Mario 64 experience with a hint of Super Mario Galaxy!
 
-Paper Mario: Beyond the Dream is a WIP hack of Paper Mario that aims to create an original story with references to Super Mario Galaxy. At this time, there is no set release date, due to how new the hack is. You can join [this server](https://discord.gg/bN4hrXNgRW) for help that is needed, or to just keep up with the mod. 
+Paper Mario: TSS (previously named Beyond the Dream) is a WIP hack of Paper Mario that aims to create an original story with references to Super Mario Galaxy. At this time, there is no set release date, due to how new the hack is. You can join [this server](https://discord.gg/bN4hrXNgRW) for help that is needed, or to just keep up with the mod. 
 
 This repository will have the public releases on it, so you can watch here for when a potential demo comes out. This will also be the place for when the finished project comes around. With that being said, that won't be for a while still. But check back when we get closer to a demo
 
@@ -20,13 +20,12 @@ If you have any questions about the project, or how you can help, just join the 
 - Genesis
 - Rain
 - GustavoF
-- HP :zap:  kosarials
 - 456Jr
 - Dennan
 - FIRE METEOR THE ANIMATOR
 - HuMs
-- Paperist 99
 - AMBri
+- Squee
 
 [Star Rod tool developer]
 - Cloverhax
@@ -43,6 +42,7 @@ If you have any questions about the project, or how you can help, just join the 
 - Grobyc
 - alex
 - MasterKillua
+- bossbuzz
 
 [Paper Crafters logo art]
 - Dylan Kit
