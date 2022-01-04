@@ -9,12 +9,16 @@ Paper Mario: TSS (previously named Beyond the Dream) is a WIP hack of Paper Mari
 This repository will have the public releases on it, so you can watch here for when a potential demo comes out. This will also be the place for when the finished project comes around. With that being said, that won't be for a while still. But check back when we get closer to a demo
 
 
-If you have any questions about the project, or how you can help, just join the [Discord server!](https://discord.gg/bN4hrXNgRW) 
+If you have any questions about the project, or how you can help, just join the [Discord server!](https://discord.gg/bN4hrXNgRW)
+
+# The General Story
+It had been a few months since Mario defeated Bowser, and returned the Star Rod to Star Haven. The Bros were sitting at home when they Parakarry delivers to them a letter from the Princess. She invites Mario and Luigi to join her and Toadsworth in the faraway Starfield Islands where a festival will ensue for the seven Grand Stars, a festival that only happens once every 50 years. With this, Mario and Luigi sail out to the Island and meet the Princess and Toadsworth there. While at the festival, everything is alright until Bowser comes in with his army and steals the seven Grand Stars. A quick fight with Bowser sends him Mario falling into a forest, where he meets a star called Luna, who's apparently the one who was supposed to watch over the Grand Stars. Enlisting his help, Mario and Luna set out to retrieve the Grand Stars from Bowser's grasp.
 
 # Paper Crafters team
 [Main Devs]
 - X4X5
 - Den
+- OrgoKetchup
 
 [Paper Crafters team]
 - Genesis
