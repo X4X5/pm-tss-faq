@@ -29,7 +29,6 @@ It had been a few months since Mario defeated Bowser, and returned the Star Rod 
 - HuMs
 - AMBri
 - Squee
-- Fish
 
 [Star Rod tool developer]
 - Cloverhax
@@ -47,6 +46,7 @@ It had been a few months since Mario defeated Bowser, and returned the Star Rod 
 - alex
 - MasterKillua
 - bossbuzz
+- Fish
 
 [Paper Crafters logo art]
 - Dylan Kit
