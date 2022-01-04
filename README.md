@@ -25,7 +25,6 @@ It had been a few months since Mario defeated Bowser, and returned the Star Rod 
 - Rain
 - GustavoF
 - 456Jr
-- Dennan
 - FIRE METEOR THE ANIMATOR
 - HuMs
 - AMBri
