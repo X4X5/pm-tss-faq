@@ -69,7 +69,7 @@ Here's my list:
 Writing is also a need, however, if you're on the team, you automatically contribue to writing
 
 # May I be a beta tester?
-The answer is yes. However, you must join the [Discord server](https://discord.gg/bN4hrXNgRW) in order to be elgible. Slots do remain, so this is your chance to snag one.
+No. We have enough beta testers right now.
 
 # May I suggest mechanic ideas for Beyond the Dream? How can I do so?
 Yes, you are allowed to make suggestions, but please note that they may not be taken all the time. As a team, we have to be consious of the fact that we can't please everyone, and sometimes, some ideas may not best align with what we have planned for the future. Please understand.
